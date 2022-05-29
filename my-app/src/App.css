@@ -1,0 +1,10 @@
+.App {
+    text-align: center;
+    background-color: rgb(132, 255, 0);
+    color: rgb(94, 54, 173);
+    text-align: center;
+    border-radius: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+
+}
